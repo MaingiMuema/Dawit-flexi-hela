@@ -93,7 +93,7 @@ const Goal = () => {
                                 <input type="text" placeholder="Search..." name="search" class="search-field"/>
                                 <button type="submit" class="search-icon"><img src={img3}/></button>
                             </form>
-                            <a href="#" onClick={handleClick} class="mr-sm-2"><img src={img4}/></a>
+                            <a href="#" onClick={handleClick} onTouchStart={handleClick} class="mr-sm-2"><img src={img4}/></a>
                         </div>
                     </div>
                 </nav>
