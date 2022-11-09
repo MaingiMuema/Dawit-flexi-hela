@@ -16,7 +16,7 @@ import Goal_planner_dreamWedding from './components/Goal-planner-page/Goal_plann
 import Goal_planner_Other from './components/Goal-planner-page/Goal_planner_others';
 import Securefamily from './components/Secure-family-page/Securefamily';
 import Payment from './components/Payment-page/Payment';
-import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+import {HashRouter as Router, Route, Switch} from 'react-router-dom';
 import Beneficiary_children from './components/Beneficiaries-page/Beneficiary_children';
 import Beneficiary_partner from './components/Beneficiaries-page/Beneficiary_partner';
 import Beneficiary_parents from './components/Beneficiaries-page/Beneficiary_parents';
