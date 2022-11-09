@@ -106,7 +106,7 @@ const Goal = () => {
                 <form id="goal" action="/action_page.php">
                     <div class="row">
                         <div class="col">
-                            <label class="goal d-flex justify-content-center fadeInUpv2" onClick={checkButton} for="Car">
+                            <label class="goal d-flex justify-content-center fadeInUpv2" onClick={checkButton} onTouchStart={checkButton} for="Car">
                                 <div>
                                     <img src={img5}/>
                                     <input class="d-flex align-items-end" name="goal" type="radio" id="Car"/>
@@ -115,7 +115,7 @@ const Goal = () => {
                             <h3 class="text-center " >Dream Car</h3>
                         </div>
                         <div class="col">
-                            <label class="goal d-flex justify-content-center fadeInUpv2" onClick={checkButton} for="Dream-Gadget">
+                            <label class="goal d-flex justify-content-center fadeInUpv2" onClick={checkButton} onTouchStart={checkButton} for="Dream-Gadget">
                                 <div>
                                     <img src={img6}/>
                                     <input class="d-flex align-items-end" name="goal" type="radio" id="Dream-Gadget"/>
@@ -124,7 +124,7 @@ const Goal = () => {
                             <h3 class="text-center">Dream Gadget</h3>
                         </div>
                         <div class="col">
-                            <label class="goal d-flex justify-content-center wedding fadeInUpv2" onClick={checkButton} for="Dream-Wedding">
+                            <label class="goal d-flex justify-content-center wedding fadeInUpv2" onClick={checkButton} onTouchStart={checkButton} for="Dream-Wedding">
                                 <div>
                                     <img src={img7}/>
                                     <input class="d-flex align-items-end" name="goal" type="radio" id="Dream-Wedding"/>
@@ -135,7 +135,7 @@ const Goal = () => {
                     </div>
                     <div class="row">
                         <div class="col">
-                            <label class="goal d-flex justify-content-center fadeInUpv2" onClick={checkButton} for="Dream-House">
+                            <label class="goal d-flex justify-content-center fadeInUpv2" onClick={checkButton} onTouchStart={checkButton} for="Dream-House">
                                 <div>
                                     <img src={img8}/>
                                     <input class="d-flex align-items-end" name="goal" type="radio" id="Dream-House"/>
@@ -144,7 +144,7 @@ const Goal = () => {
                             <h3 class="text-center">Dream House</h3>
                         </div>
                         <div class="col">
-                            <label class="goal d-flex justify-content-center fadeInUpv2" onClick={checkButton} for="Dream-School">
+                            <label class="goal d-flex justify-content-center fadeInUpv2" onClick={checkButton} onTouchStart={checkButton} for="Dream-School">
                                 <div>
                                     <img src={img9}/>
                                     <input class="d-flex align-items-end" name="goal" type="radio" id="Dream-School"/>
@@ -153,7 +153,7 @@ const Goal = () => {
                             <h3 class="text-center">Dream School</h3>
                         </div>
                         <div class="col">
-                            <label class="goal d-flex justify-content-center fadeInUpv2" onClick={checkButton} for="Other">
+                            <label class="goal d-flex justify-content-center fadeInUpv2" onClick={checkButton} onTouchStart={checkButton} for="Other">
                                 <div>
                                     <img src={img10}/>
                                     <input class="d-flex align-items-end" name="goal" type="radio" id="Other"/>
