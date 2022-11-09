@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Dawit-flexi-hela/static/css/main.0d307aeb.css",
-    "main.js": "/Dawit-flexi-hela/static/js/main.774bff08.js",
+    "main.js": "/Dawit-flexi-hela/static/js/main.0571b1db.js",
     "static/js/787.ec28d393.chunk.js": "/Dawit-flexi-hela/static/js/787.ec28d393.chunk.js",
     "static/media/Flexi Hela -Brochure Final.pdf": "/Dawit-flexi-hela/static/media/Flexi Hela -Brochure Final.73ef2cbb81f3443f23d8.pdf",
     "static/media/Securefamilybgimg.png": "/Dawit-flexi-hela/static/media/Securefamilybgimg.aa14ec3ce7480be02658.png",
@@ -46,11 +46,11 @@
     "static/media/visa-removebg-preview.png": "/Dawit-flexi-hela/static/media/visa-removebg-preview.f5971943189665bd8d8a.png",
     "index.html": "/Dawit-flexi-hela/index.html",
     "main.0d307aeb.css.map": "/Dawit-flexi-hela/static/css/main.0d307aeb.css.map",
-    "main.774bff08.js.map": "/Dawit-flexi-hela/static/js/main.774bff08.js.map",
+    "main.0571b1db.js.map": "/Dawit-flexi-hela/static/js/main.0571b1db.js.map",
     "787.ec28d393.chunk.js.map": "/Dawit-flexi-hela/static/js/787.ec28d393.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d307aeb.css",
-    "static/js/main.774bff08.js"
+    "static/js/main.0571b1db.js"
   ]
 }
