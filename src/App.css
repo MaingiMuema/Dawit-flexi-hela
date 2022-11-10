@@ -165,8 +165,9 @@ div .product{
     padding: 0;
     font-size: 14px;
     background: linear-gradient(180deg, rgba(255, 255, 255, 0.267), rgba(255, 255, 255, 0.13)) url(./components/Assets/hero-section-img.png);
-    background-size: cover;
-    height: 35vh; /* full Image on phone height=35vh.*/
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 40vh; /* full Image on phone height=35vh.*/
     margin-bottom: 350px;
   }
 
@@ -271,6 +272,10 @@ body{
 @media screen and (max-width: 600px){
   div .hero-section-col{
     padding: 0 10px 0 10px
+  }
+
+  div #b-hero{
+    padding-bottom: 50px;
   }
 }
 

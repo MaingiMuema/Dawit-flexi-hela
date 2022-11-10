@@ -76,7 +76,7 @@ const Home = () => {
             <div class="container breadcrumb">
                 <p class="d-flex justify-content-start">Get started {'>'}</p>
             </div>
-            <div class="container">
+            <div class="container" id="b-hero">
             <div class="row hero-section-w">
                 <div class="col-xl-6 hero-section-col">
                     <h4>Introducing</h4>
