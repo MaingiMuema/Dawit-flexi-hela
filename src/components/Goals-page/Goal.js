@@ -163,7 +163,7 @@ const Goal = () => {
                         </div>
                     </div>         
                 </form>
-                <div class="container b-buttons">
+                <div class=" b-buttons">
                 <div class="row n-p-btn">
                     <div class="col">
                         <Link to='/' class="btn btn-primary previous">PREVIOUS</Link>
