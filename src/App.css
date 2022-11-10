@@ -167,7 +167,7 @@ div .product{
     background: linear-gradient(180deg, rgba(255, 255, 255, 0.267), rgba(255, 255, 255, 0.13)) url(./components/Assets/hero-section-img.png);
     background-size: contain;
     background-repeat: no-repeat;
-    height: 40vh; /* full Image on phone height=35vh.*/
+    height: 39vh; /* full Image on phone height=35vh.*/
     margin-bottom: 350px;
   }
 
