@@ -10,6 +10,7 @@ import img2 from  '../Brochure/Flexi Hela Collateral Key Facts - 1.pdf'
 import img3 from  '../Assets/search-icon.png'
 import img4 from  '../Assets/account-icon.png'
 import img5 from  '../Assets/Profile-img.png'
+import img6 from  '../Assets/cover-icon.png'
 
 const SecureSavings = () =>{
 
@@ -328,7 +329,7 @@ const handleClick = () => {
                 </div>
                 <div class="col">
                     <div class="card summary-card">
-                        <span class="text-center s-ry"><span class="s-ry">Summary</span><img class="img-fluid summary-img" src={process.env.PUBLIC_URL+"Assets/cover-icon.png"}/></span>
+                        <span class="text-center s-ry"><span class="s-ry">Summary</span><img class="img-fluid summary-img" src={img6}/></span>
                         <hr align="center"class="detail-separator"/>
                         <span class="text-center s-ry" id="set-goals">Benefit Limit: <b>Ksh 10000<span></span></b></span>
                         <hr align="center"class="detail-separator"/>
