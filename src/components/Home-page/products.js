@@ -11,7 +11,7 @@ class Products extends Component{
                 <div class="container" id='productSection'>
                     <h1 class="text-center fadeInUp">FAQs</h1>
                     <label for="touch">
-                        <div onclick="productdesc()" class="product row">
+                        <div class="product row">
                                 <div class="col">
                                     <span class="product-list">How long can you keep the policy?</span>
                                 </div>

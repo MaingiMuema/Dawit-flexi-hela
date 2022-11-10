@@ -670,18 +670,18 @@ div .c-b{
     
   }
 
-  div #touch:checked + .slide {height: 600px;} 
-  div #touch2:checked + .slide2 {height: 250px;}
-  div #touch3:checked + .slide3 {height: 200px;}
-  div #touch4:checked + .slide4 {height: 500px;}
-  div #touch5:checked + .slide5 {height: 600px;}
-  div #touch6:checked + .slide6 {height: 250px;}
-  div #touch7:checked + .slide7 {height: 1000px;}
-  div #touch8:checked + .slide8 {height: 300px;}
-  div #touch9:checked + .slide9 {height: 300px;}
-  div #touch10:checked + .slide10 {height: 300px;}
-  div #touch11:checked + .slide11 {height: 250px;}
-  div #touch12:checked + .slide12 {height: 450px;}
+  div #touch:checked + .slide {height: 600px; position: relative;} 
+  div #touch2:checked + .slide2 {height: 250px; position: relative;}
+  div #touch3:checked + .slide3 {height: 200px; position: relative;}
+  div #touch4:checked + .slide4 {height: 500px; position: relative;}
+  div #touch5:checked + .slide5 {height: 600px; position: relative;}
+  div #touch6:checked + .slide6 {height: 250px; position: relative;}
+  div #touch7:checked + .slide7 {height: 1000px;  position: relative;}
+  div #touch8:checked + .slide8 {height: 300px;  position: relative;}
+  div #touch9:checked + .slide9 {height: 300px;  position: relative;}
+  div #touch10:checked + .slide10 {height: 300px;  position: relative;}
+  div #touch11:checked + .slide11 {height: 250px;  position: relative;}
+  div #touch12:checked + .slide12 {height: 450px;  position: relative;}
 }
 
 .products-section{
