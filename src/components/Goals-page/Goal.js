@@ -163,8 +163,7 @@ const Goal = () => {
                         </div>
                     </div>         
                 </form>
-            </div>
-            <div class="container">
+                <div class="container b-buttons">
                 <div class="row n-p-btn">
                     <div class="col">
                         <Link to='/' class="btn btn-primary previous">PREVIOUS</Link>
@@ -174,6 +173,8 @@ const Goal = () => {
                     </div>
                 </div>
             </div>
+            </div>
+           
             <div class="modal container-fluid " id="s-card">
                 <div class="card success-card fadeInUp" id="card">
                     <div>

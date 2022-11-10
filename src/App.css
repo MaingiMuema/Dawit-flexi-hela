@@ -1126,18 +1126,18 @@ div .banner{
     margin-left: 23.5%;
     cursor: pointer;
  }
+
+ div .b-buttons{
+  padding-bottom: 150px;
+ }
   
  div .n-p-btn{
-  padding: 25px 20px 250px 20px;
+  padding: 25px 20px 50px 20px;
   margin-left: 22%;
  }
 
  div #goal .row .col{
   margin-bottom: 20px;
- }
-
- div #goalnxtbtn{
-  margin-bottom: 200px;
  }
 
  div #g-bg{
