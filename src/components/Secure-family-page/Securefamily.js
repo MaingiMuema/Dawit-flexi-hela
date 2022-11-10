@@ -127,7 +127,7 @@ const Securefamily = () => {
                     </div>         
                 </form>
             </div>
-            <div class="container family-products-btns">
+            <div class="container family-products-btns b-buttons">
                 <div class="row n-p-btn">
                     <div class="col">
                         <Link to='/Secure-savings' class="btn btn-primary previous">PREVIOUS</Link>

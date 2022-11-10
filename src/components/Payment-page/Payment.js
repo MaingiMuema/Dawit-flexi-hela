@@ -106,8 +106,8 @@ const Payment = () => {
                     </div>          
                 </form>
             </div>
-            <div class="container">
-                <div class="row n-p-btn">
+            <div class="container b-buttons">
+                <div class="row n-p-btn ">
                     <div class="col">
                         <Link to='/Securefamily' class="btn btn-primary previous">PREVIOUS</Link>
                     </div>

@@ -215,7 +215,7 @@ const phoneValidation = () =>{
                     </div>           
                 </div>
             </div>
-            <div class="container goal-dets-btns">
+            <div class="container goal-dets-btns b-buttons">
                 <div class="row n-p-btn">
                     <div class="col">
                         <Link to='/Securefamily' class="btn btn-primary previous">PREVIOUS</Link>

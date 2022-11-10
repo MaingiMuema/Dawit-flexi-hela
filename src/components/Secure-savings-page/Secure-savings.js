@@ -343,7 +343,7 @@ const handleClick = () => {
                 </div>
             </div>
         </div>
-        <div class="container div-next next-btn">
+        <div class="container div-next next-btn b-buttons">
             <Link to={checkPath} onClick={handleClick} class="btn btn-primary next">NEXT</Link>
         </div>
 
